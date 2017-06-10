@@ -6,4 +6,11 @@
     android:layout_height="match_parent"
     tools:context="com.doomcat.lolopponent.PlayerActivity">
 
+    <TextView
+        android:id="@+id/playerNameTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="PlayerName"
+        tools:layout_editor_absoluteX="155dp"
+        tools:layout_editor_absoluteY="44dp" />
 </android.support.constraint.ConstraintLayout>

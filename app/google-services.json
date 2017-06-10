@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "45450151982",
+    "firebase_url": "https://askdevs-be85d.firebaseio.com",
+    "project_id": "askdevs-be85d",
+    "storage_bucket": "askdevs-be85d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45450151982:android:dd5387ee6cad474e",
+        "android_client_info": {
+          "package_name": "com.doomcat.lolopponent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45450151982-9ubkkja36qgn44ilhr12v2ghfou2cir1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGO-1CqB03hu_e5WvBd6OJb45mD_HIoaM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
